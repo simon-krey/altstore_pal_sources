@@ -4,6 +4,7 @@
   "apps": [
     {
       "name": "Spotify",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "Not Me",
       "version": "9.0.32",
