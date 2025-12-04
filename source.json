@@ -7,10 +7,18 @@
       "localizedDescription": "This is an awesome app only available on AltStore.",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "Not Me",
-      "version": "9.0.32",
-      "versionDate" : 0,
-      "downloadURL": "https://drive.usercontent.google.com/u/0/uc?id=1DFYxnQIu3EWwWLMMe5lKRlM9qimP6fyz&export=download",
-      "iconURL": "https://raw.githubusercontent.com/simon-krey/altstore_pal_sources/main/1_icon.jpg"
+      "iconURL": "https://raw.githubusercontent.com/simon-krey/altstore_pal_sources/main/1_icon.jpg",
+      "versions": [
+        {
+            "version": "9.0.32",
+            "buildVersion": "2",
+            "date": "2022-05-01T09:00:00-08:00",
+            "size": 20000000,
+            "downloadURL": "https://drive.usercontent.google.com/u/0/uc?id=1DFYxnQIu3EWwWLMMe5lKRlM9qimP6fyz&export=download",
+            "localizedDescription": "New features and bug fixes.",
+            "minOSVersion": "12.0"
+        }
+      ],
     }
   ]
 }
