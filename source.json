@@ -1,0 +1,14 @@
+{
+  "name": "Meine Source",
+  "identifier": "meine.source",
+  "apps": [
+    {
+      "name": "Meine App",
+      "bundleIdentifier": "com.dein.app",
+      "developerName": "Du",
+      "version": "1.0",
+      "downloadURL": "https://raw.githubusercontent.com/<deinUser>/<deinRepo>/main/meineapp.ipa",
+      "iconURL": "https://raw.githubusercontent.com/<deinUser>/<deinRepo>/main/icon.png"
+    }
+  ]
+}
